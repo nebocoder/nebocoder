@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm nebocoder</h1>
+<h1 align="center">Hi 👋, I'm Nemanja</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
-- 🔭 I’m currently working on **a discord bot!**
+- 🔭 I’m currently working on [vanilla JS rogielike!](https://github.com/nebocoder/js-roguelike)
 
 - 🌱 I’m currently learning **API's, React and graphic design...**
 
@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nebocoder&show_icons=true&theme=dark&locale=en" alt="nebocoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nebocoder&theme=dark" alt="nebocoder" /></p>
-
