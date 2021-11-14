@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nemanja</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
-- 🔭 I’m currently working on [vanilla JS rogielike!](https://github.com/nebocoder/js-roguelike)
+- 🔭 I’m currently working on [Scrimba's Weekly Web Dev Challanges](https://github.com/nebocoder/my-wwdc-submissions)
 
 - 🌱 I’m currently learning **API's, React and graphic design...**
 
-- 👯 I’m looking to collaborate on **any interesting project.**
+- 👯 I’m looking to collaborate on [vanilla JS rogielike!](https://github.com/nebocoder/js-roguelike)
 
 - 📫 How to reach me **nebocoder@gmail.com**
 
