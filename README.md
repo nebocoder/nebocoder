@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nemanja</h1>
-<h3 align="center">Self-taught web developer</h3>
+<h3 align="center">self-taught web developer</h3>
 
 - 🔭 I’m currently working on [Scrimba's Weekly Web Dev Challanges](https://github.com/nebocoder/my-wwdc-submissions)
 
-- 🌱 I’m currently learning **API's, React and graphic design...**
+- 🌱 I’m currently learning **API's, React and graphic design**
 
-- 👯 I’m looking to collaborate on [vanilla JS rogielike!](https://github.com/nebocoder/js-roguelike)
+- 👯 I’m looking to collaborate on [vanilla JS rogielike](https://github.com/nebocoder/js-roguelike)
 
 - 📫 How to reach me **nebocoder@gmail.com**
 
