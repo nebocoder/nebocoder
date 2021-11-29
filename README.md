@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nemanja</h1>
-<h3 align="center">I study to code using online resources</h3>
+<h3 align="center">Self-taught web developer</h3>
 
 - 🔭 I’m currently working on [Scrimba's Weekly Web Dev Challanges](https://github.com/nebocoder/my-wwdc-submissions)
 
