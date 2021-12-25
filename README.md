@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nemanja</h1>
 <h3 align="center">self-taught web developer</h3>
 
-- 🔭 I’m currently working on [JavaScriptmas 2021](https://github.com/nebocoder/javascriptmas-2021)
+- 🔭 I’m currently working on **a personalised discord bot!**
 
 - 🌱 I’m currently learning **API's, React and graphic design...**
 
