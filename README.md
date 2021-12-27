@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nemanja</h1>
 <h3 align="center">self-taught web developer</h3>
 
-- 🔭 I’m currently working on **a personalised discord bot!**
+<p align="left"> <a href="https://twitter.com/nebocoder" target="blank"><img src="https://img.shields.io/twitter/follow/nebocoder?logo=twitter&style=for-the-badge" alt="nebocoder" /></a> </p>
+
+- 🔭 I’m currently working on **a personal discord bot.**
 
 - 🌱 I’m currently learning **API's, React and graphic design...**
 
-- 🤝 I’m looking for help with [vanilla JS roguelike](https://github.com/nebocoder/js-roguelike)
+- 👯 I’m looking to collaborate on [vanilla JS roguelike.](https://github.com/nebocoder/js-roguelike)
 
 - 📫 How to reach me **nebocoder@gmail.com**
 
