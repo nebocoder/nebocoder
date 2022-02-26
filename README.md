@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a personal discord bot.**
 
-- 🌱 I’m currently learning **API's, React and graphic design...**
+- 🌱 I’m currently learning **React!**
 
 - 👯 I’m looking to collaborate on [vanilla JS roguelike.](https://github.com/nebocoder/js-roguelike)
 
