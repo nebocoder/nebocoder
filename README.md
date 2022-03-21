@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm nebocoder</h1>
 <h3 align="center">self-taught web developer</h3>
 
-- 🔭 I’m currently working on **a personal discord bot.**
-
-- 🌱 I’m currently learning **React.**
-
-- 👯 I’m looking to collaborate on [vanilla JS roguelike.](https://github.com/nebocoder/js-roguelike)
-
-- 📫 How to reach me **nebocoder@gmail.com**
-
 <img align="right" src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="400" alt="nebocoders's Dev Card"/>
 
 [![Codewars Badge](https://www.codewars.com/users/nebocoder/badges/large)](https://www.codewars.com/users/nebocoder)
