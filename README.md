@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm nebocoder</h1>
 <h3 align="center">self-taught web developer</h3>
 
-<img align="right" src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="400" alt="nebocoders's Dev Card"/>
+<img align="right" src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="300" alt="nebocoders's Dev Card"/>
 
 [![Codewars Badge](https://www.codewars.com/users/nebocoder/badges/large)](https://www.codewars.com/users/nebocoder)
 
