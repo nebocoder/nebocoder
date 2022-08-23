@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm nebocoder</h1>
-<h3 align="center">self-taught web developer</h3>
+<div align="center">
+<h1>Hi 👋, I'm nebocoder</h1>
+<h3>self-taught web developer</h3>
 
-<img align="center" src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="400" alt="nebocoders's Dev Card"/>
+</br>
+  
+<img src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="400" alt="nebocoders's Dev Card"/>
+</div>
