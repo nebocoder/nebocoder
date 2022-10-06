@@ -23,6 +23,8 @@
 ---
 
 ### 👨‍💻 About Me:
+  <img src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="200" alt="nebocoders's Dev Card" align="right"/>
+
 - :telescope: I’m a self taught web developer.
 
 - :seedling: Always exploring cool new tech to use in my projects.
@@ -51,8 +53,6 @@
 </div>
 
 ---
-
-<img src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="300" alt="nebocoders's Dev Card" align="right"/>
 
 ```
 Favorite Aalgorithm
