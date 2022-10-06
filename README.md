@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/91620216/194315090-6013c4c9-00a4-427d-97ea-ed3cbfb965da.png)
 
 <div align="center">
-  <img src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="300" alt="nebocoders's Dev Card" align="right"/>
+  <img src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="200" alt="nebocoders's Dev Card" align="right"/>
 </div>
 
 ```
