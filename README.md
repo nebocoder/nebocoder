@@ -22,9 +22,10 @@
 
 ---
 
-### 👨‍💻 About Me:
-  <img src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="200" alt="nebocoders's Dev Card" align="right"/>
-  
+<img src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="200" alt="nebocoders's Dev Card" align="right"/>
+
+
+### 👨‍💻 About Me:  
 - :telescope: I’m a self taught web developer.
 
 - :seedling: Always exploring cool new tech to use in my projects.
