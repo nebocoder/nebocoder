@@ -29,7 +29,7 @@
 
 - :zap: In my free time, I solve katas on [Codewars](https://www.codewars.com) and read tech articles.
 
-- :mailbox:How to reach me: [![Gmail badge](https://img.shields.io/badge/nebocoder-red?style=flat&logo=Gmail&logoColor=white)](mailto:nebocoder@gmail.com) or [![Twitter badge](https://img.shields.io/badge/nebocoder-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nebocoder).
+- :mailbox:How to reach me: [![Twitter badge](https://img.shields.io/badge/nebocoder-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/nebocoder) or [![Gmail badge](https://img.shields.io/badge/nebocoder@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:nebocoder@gmail.com).
 
 ---
 
@@ -52,6 +52,24 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="400" alt="nebocoders's Dev Card"/>
-</div>
+<img src="https://github.com/nebocoder/nebocoder/blob/main/devcard.svg" width="300" alt="nebocoders's Dev Card" align="right"/>
+
+```
+Favorite Aalgorithm
+```
+```javascript
+const fisherYatesShuffle = (array) => {
+  for (let i = array.length - 1; i > 0; i--) {
+    let j = Math.floor(Math.random() * (i + 1))
+    let temp = array[i]
+    array[i] = array[j]
+    array[j] = temp
+  }
+
+  return array
+}
+
+const abc = ["a", "b", "c"]
+console.log(fisherYatesShuffle(abc))    
+};
+```
