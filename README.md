@@ -23,9 +23,6 @@
     <a href="mailto:nebocoder@gmail.com">
       <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="https://hashnode.com/@nebocoder">
-      <img src="https://img.shields.io/badge/Hashnode-white?style=for-the-badge&logo=hashnode&logoColor=blue" alt="Hashnode Badge"/>
-    </a>
     <a href="https://www.codewars.com/users/nebocoder">
       <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/>
     </a>
